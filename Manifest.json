@@ -3,6 +3,6 @@
   "build_date": "2026-02-10T15:00:00Z",
   "force_update": false,
   "enabled": true,
-  "bin_url": "https://raw.githubusercontent.com/Juzz-Layman/Incident_Firmware/main/firmware/firmware.bin",
+  "bin_url": "https://github.com/Juzz-Layman/Incident_Firmware/raw/51ab18e37acdfb94c9b6bd33c0d12c0f8b936999/firmware/Firmware.bin",
   "notes": "Initial release."
 }
