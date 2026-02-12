@@ -3,10 +3,11 @@
   "version": 2,                 
   "build_date": "2026-02-11T12:16:14Z",
   "force_update": false,          
-  "enabled": true,
+  "enabled": false,
   "bin_url": "https://github.com/Juzz-Layman/Incident_Firmware/raw/refs/heads/main/Firmware/Firmware.bin",
   "notes": "Bug fixes and performance improvements."
 }
+
 
 
 
