@@ -1,12 +1,13 @@
 
 {
   "version": 4,                 
-  "build_date": "2026-02-13T07:42:00Z",
+  "build_date": "2026-02-25T09:00:00Z",
   "force_update": false,          
   "enabled": true,
   "bin_url": "https://github.com/Juzz-Layman/Incident_Firmware/raw/refs/heads/main/Firmware/Firmware.bin",
   "notes": "Bug fixes and performance improvements No longer WDT AutoRest & Continous OTA on Force TEST."
 }
+
 
 
 
